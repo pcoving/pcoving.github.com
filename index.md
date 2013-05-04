@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
-[Download](test.txt)
+[Download](cv.pdf)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
